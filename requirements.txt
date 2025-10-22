@@ -1,0 +1,6 @@
+requests
+python-whois
+dnspython
+shodan
+beautifulsoup4
+colorama
